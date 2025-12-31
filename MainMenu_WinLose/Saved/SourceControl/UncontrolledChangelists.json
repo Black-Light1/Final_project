@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/Mainmenu_WinLose.umap",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/MainMenu.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/Screenshot_2025-12-31_123210.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/Win.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/Lose.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/IQ/Q3OPWA2VXDC2WD5HPIYANB.uasset",
+				"C:/Users/Lenovo/Documents/Unreal Projects/MainMenu_WinLose/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/61/UVPT3VUZ5UP52WJLDLDGYL.uasset"
+			]
+		}
+	]
+}
